@@ -32,6 +32,18 @@ public class test1 {
         System.out.println(temp_str);
         System.out.println(yesterday_str);
 
+        short  a = 12;
+        int  b = 15;
+        int c =  a + b;
+        System.out.println(c);
+
+
+        int num = (int) 10.5;
+        System.out.println(num);
+
+
+
+
 
     }
 }
